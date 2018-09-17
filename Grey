@@ -1,1 +1,33 @@
-<Dicty
+<DOCTYPE html>
+
+<html>
+<head>
+  <div class="login"> <a>Login Here</a>
+  </div>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+
+</head>
+<h1>Amber Owens</h1>
+<img src="http://www.kinyu-z.net/data/wallpapers/57/901698.png"
+<body>
+  <div class="container">
+    <div class="navbar">
+  <h4> My Favorite Colors</h4>
+<ul>
+<a href="./green.html">Green</a>
+<a href= "./pink">Pink</a>
+<a href= "./grey">Grey</a>
+</ul>
+</div
+
+<p> The color green is an earth color. The color pink is feminine. The color <a href="https://images.fabric.com/images/693/693/RFR-005.jpg"> grey</a> is very neutral.
+</p>
+</div>
+<footer>
+<ul>
+  <li>Green</li>
+  <li>Pink</li>
+  <li>Grey</li>
+</footer>
+</body>
+</html>
