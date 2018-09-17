@@ -1,10 +1,33 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 
 <html>
-
 <head>
-<title> Perfectly Pink </title>
+  <div class="login"> <a>Login Here</a>
+  </div>
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+
 </head>
+<h1>Pink</h1>
+<img src="https://cdn.pixabay.com/photo/2016/01/08/09/26/pink-1127412_960_720.jpg"
 <body>
-<p> </p>
+  <div class="container">
+    <div class="navbar">
+  <h4> My Favorite Colors</h4>
+<ul>
+<a href="./green.html">Green</a>
+<a href= "./pink">Pink</a>
+<a href= "./grey">Grey</a>
+</ul>
+</div
+
+<p> The color pink often represents femininity of women. The color pink represents the kindliness of women
+</p>
+</div>
+<footer>
+<ul>
+  <li>Green</li>
+  <li>Pink</li>
+  <li>Grey</li>
+</footer>
 </body>
+</html>
