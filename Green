@@ -7,8 +7,8 @@
   <link href="style.css" rel="stylesheet" type="text/css"/>
 
 </head>
-<h1>Amber Owens</h1>
-<img src="http://www.kinyu-z.net/data/wallpapers/57/901698.png"
+<h1>Green</h1>
+<img src="https://cdn.pixabay.com/photo/2016/02/27/18/07/clover-1225988_960_720.jpg"
 <body>
   <div class="container">
     <div class="navbar">
@@ -20,7 +20,8 @@
 </ul>
 </div
 
-<p> The color green is an earth color that also can represent good things. For example, in elementary school a greed card meant good behavior.
+<p>
+  The color green is an earth color that also can represent good things. For example, the four leaf clover is green.
 </p>
 </div>
 <footer>
