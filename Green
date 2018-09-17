@@ -14,13 +14,13 @@
     <div class="navbar">
   <h4> My Favorite Colors</h4>
 <ul>
-<a href="./green.html">Green</a>
+<a href="./green">Green</a>
 <a href= "./pink">Pink</a>
 <a href= "./grey">Grey</a>
 </ul>
 </div
 
-<p> The color green is an earth color that also can represent good things. For example, in elementary school a greed card meant good behavior. 
+<p> The color green is an earth color that also can represent good things. For example, in elementary school a greed card meant good behavior.
 </p>
 </div>
 <footer>
