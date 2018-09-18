@@ -32,5 +32,5 @@ top: 5px;
 }
 
 #Green {
-  background-image: Grass.jpg;
+  background-image: url("./image/Grass.jpg")
 }
