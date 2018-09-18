@@ -31,6 +31,14 @@ padding: 8px 18px;
 top: 5px;
 }
 
-#Green {
-  background-image: url("./image/Grass.jpg")
+#green {
+  background-image: url("./images/Grass.jpg");
+}
+
+#pink {
+  background-image: url("./images/Pink.jpg");
+}
+
+#grey {
+  background-image: url("./images/Grey.jpg");
 }
